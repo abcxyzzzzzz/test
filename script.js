@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 const questionPrompt = document.querySelector(".question-prompt"); // Thêm đoạn này
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Anh đúng là đồ tòyyyyyyy 🥺<br>dỗiiii x10000000";
+  question.innerHTML = "Em chọn đúng gùi anh yêu em nhìu nhắmmmm 🥺<br> x10000000";
   gif.src =
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY3NzFkdmlzczRoeDNtOHE2YnF5dzhwNnBrZ3V4YWg5aXdrcmptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fXnKJBaFoTrMv5gIqQ/giphy.gif";
 
